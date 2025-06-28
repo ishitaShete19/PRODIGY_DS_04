@@ -1,0 +1,501 @@
+ID,Entity,Sentiment,Tweet Content
+2401,Tesla,Neutral,Excited for Tesla but I still prefer the older version.
+2402,Samsung,Negative,Loving the experience with Samsung and it totally failed.
+2403,Spotify,Positive,Feeling okay about Spotify again and it's perfect.
+2404,Apple,Negative,I think Apple and nothing has changed.
+2405,Facebook,Negative,Excited for Facebook and it totally failed.
+2406,Google,Positive,I think Google —it’s okay I guess.
+2407,Spotify,Positive,Feeling okay about Spotify and nothing has changed.
+2408,Zoom,Negative,Frustrated with Zoom with no improvement.
+2409,Twitter,Neutral,Loving the experience with Twitter and it totally failed.
+2410,Samsung,Neutral,Excited for Samsung and the new features are buggy.
+2411,Instagram,Positive,Just updated Instagram again and it's perfect.
+2412,Apple,Neutral,"Feeling okay about Apple today, great results!"
+2413,LinkedIn,Positive,Can’t believe how bad LinkedIn —it’s okay I guess.
+2414,Snapchat,Positive,Great job by Snapchat and it totally failed.
+2415,YouTube,Positive,Frustrated with YouTube with no improvement.
+2416,Adidas,Negative,Not sure about Adidas —finally fixed some issues.
+2417,Samsung,Neutral,Feeling okay about Samsung and the new features are buggy.
+2418,Snapchat,Neutral,Never using Snapchat but I still prefer the older version.
+2419,Google,Negative,"Not sure about Google today, great results!"
+2420,Reddit,Positive,I think Reddit —finally fixed some issues.
+2421,YouTube,Negative,Loving the experience with YouTube —finally fixed some issues.
+2422,Instagram,Positive,I just used Instagram again and it's perfect.
+2423,Instagram,Neutral,"Not sure about Instagram and wow, what a difference!"
+2424,Samsung,Positive,Great job by Samsung but the support was helpful.
+2425,Facebook,Positive,Excited for Facebook with no improvement.
+2426,Facebook,Neutral,"Excited for Facebook today, great results!"
+2427,GameStop,Neutral,Frustrated with GameStop —finally fixed some issues.
+2428,Zoom,Neutral,I just used Zoom and the new features are buggy.
+2429,Samsung,Negative,I just used Samsung with no improvement.
+2430,Reddit,Positive,Just updated Reddit but I still prefer the older version.
+2431,Apple,Negative,Really impressed by Apple but the support was helpful.
+2432,Amazon,Negative,Can’t believe how bad Amazon with no improvement.
+2433,Adidas,Negative,Feeling okay about Adidas with no improvement.
+2434,Instagram,Positive,Just updated Instagram but the support was helpful.
+2435,Apple,Neutral,"Never using Apple and wow, what a difference!"
+2436,GameStop,Negative,Excited for GameStop —finally fixed some issues.
+2437,Twitter,Neutral,Excited for Twitter and nothing has changed.
+2438,Apple,Positive,Really impressed by Apple but the support was helpful.
+2439,OpenAI,Neutral,Loving the experience with OpenAI but the support was helpful.
+2440,Microsoft,Negative,"Excited for Microsoft and wow, what a difference!"
+2441,Facebook,Positive,"Loving the experience with Facebook today, great results!"
+2442,LinkedIn,Neutral,I just used LinkedIn with no improvement.
+2443,OpenAI,Negative,Feeling okay about OpenAI and it totally failed.
+2444,Microsoft,Neutral,Just updated Microsoft but the support was helpful.
+2445,Apple,Positive,Great job by Apple again and it's perfect.
+2446,OpenAI,Positive,Really impressed by OpenAI and it totally failed.
+2447,Amazon,Positive,"Great job by Amazon today, great results!"
+2448,Zoom,Negative,I just used Zoom with no improvement.
+2449,Zoom,Positive,I just used Zoom and nothing has changed.
+2450,Apple,Positive,Just updated Apple and nothing has changed.
+2451,Apple,Positive,Excited for Apple and it totally failed.
+2452,Microsoft,Positive,Excited for Microsoft but I still prefer the older version.
+2453,LinkedIn,Negative,Feeling okay about LinkedIn and it blew my mind!
+2454,Adidas,Neutral,Can’t believe how bad Adidas and nothing has changed.
+2455,YouTube,Positive,Excited for YouTube again and it's perfect.
+2456,LinkedIn,Neutral,Loving the experience with LinkedIn and it blew my mind!
+2457,Snapchat,Neutral,"Feeling okay about Snapchat and wow, what a difference!"
+2458,LinkedIn,Neutral,Great job by LinkedIn and it blew my mind!
+2459,Reddit,Positive,Can’t believe how bad Reddit but the support was helpful.
+2460,Tesla,Negative,Can’t believe how bad Tesla —finally fixed some issues.
+2461,GameStop,Negative,"Never using GameStop and wow, what a difference!"
+2462,Facebook,Positive,Can’t believe how bad Facebook with no improvement.
+2463,GameStop,Negative,Loving the experience with GameStop with no improvement.
+2464,Netflix,Negative,"Feeling okay about Netflix today, great results!"
+2465,Twitter,Negative,Frustrated with Twitter but I still prefer the older version.
+2466,Instagram,Neutral,Just updated Instagram —finally fixed some issues.
+2467,Tesla,Neutral,I think Tesla and nothing has changed.
+2468,Microsoft,Neutral,Never using Microsoft —finally fixed some issues.
+2469,GameStop,Positive,Excited for GameStop and it totally failed.
+2470,Apple,Negative,Really impressed by Apple with no improvement.
+2471,Instagram,Neutral,I just used Instagram and it totally failed.
+2472,Spotify,Positive,Just updated Spotify and it blew my mind!
+2473,YouTube,Positive,Can’t believe how bad YouTube but the support was helpful.
+2474,Zoom,Negative,Really impressed by Zoom and nothing has changed.
+2475,GameStop,Neutral,Never using GameStop again and it's perfect.
+2476,Netflix,Positive,Frustrated with Netflix and it blew my mind!
+2477,Adidas,Negative,Never using Adidas and the new features are buggy.
+2478,Twitter,Negative,Excited for Twitter —it’s okay I guess.
+2479,Apple,Negative,Great job by Apple with no improvement.
+2480,Samsung,Neutral,Never using Samsung —it’s okay I guess.
+2481,Netflix,Positive,"Never using Netflix today, great results!"
+2482,Spotify,Neutral,"Never using Spotify and wow, what a difference!"
+2483,Reddit,Neutral,I just used Reddit but the support was helpful.
+2484,Spotify,Negative,Excited for Spotify —finally fixed some issues.
+2485,Netflix,Negative,Not sure about Netflix and it totally failed.
+2486,OpenAI,Neutral,I think OpenAI —it’s okay I guess.
+2487,Amazon,Positive,Not sure about Amazon and it blew my mind!
+2488,Twitter,Negative,Loving the experience with Twitter and it totally failed.
+2489,Apple,Positive,Can’t believe how bad Apple —it’s okay I guess.
+2490,Netflix,Neutral,Feeling okay about Netflix but the support was helpful.
+2491,Apple,Positive,Great job by Apple again and it's perfect.
+2492,Google,Negative,Excited for Google but the support was helpful.
+2493,Facebook,Neutral,I think Facebook —finally fixed some issues.
+2494,Netflix,Positive,Feeling okay about Netflix but I still prefer the older version.
+2495,Reddit,Positive,I just used Reddit with no improvement.
+2496,Microsoft,Neutral,Feeling okay about Microsoft but the support was helpful.
+2497,LinkedIn,Negative,Just updated LinkedIn and the new features are buggy.
+2498,Nike,Neutral,Never using Nike but I still prefer the older version.
+2499,Samsung,Negative,"Great job by Samsung and wow, what a difference!"
+2500,Adidas,Neutral,Never using Adidas —finally fixed some issues.
+2501,GameStop,Negative,"I just used GameStop today, great results!"
+2502,Apple,Negative,Excited for Apple with no improvement.
+2503,Twitter,Neutral,Never using Twitter with no improvement.
+2504,Amazon,Positive,"Loving the experience with Amazon and wow, what a difference!"
+2505,Snapchat,Negative,Really impressed by Snapchat with no improvement.
+2506,Netflix,Positive,Never using Netflix and it totally failed.
+2507,Amazon,Positive,I think Amazon and the new features are buggy.
+2508,Instagram,Positive,I just used Instagram and nothing has changed.
+2509,Nike,Positive,Feeling okay about Nike again and it's perfect.
+2510,LinkedIn,Negative,Not sure about LinkedIn with no improvement.
+2511,Snapchat,Neutral,"Really impressed by Snapchat and wow, what a difference!"
+2512,YouTube,Neutral,Never using YouTube but the support was helpful.
+2513,Zoom,Neutral,Never using Zoom and it blew my mind!
+2514,Instagram,Negative,Never using Instagram and it blew my mind!
+2515,Microsoft,Positive,"I think Microsoft and wow, what a difference!"
+2516,YouTube,Positive,Really impressed by YouTube and it totally failed.
+2517,Reddit,Positive,I just used Reddit and the new features are buggy.
+2518,Facebook,Negative,Can’t believe how bad Facebook and nothing has changed.
+2519,Samsung,Neutral,Can’t believe how bad Samsung and it blew my mind!
+2520,Adidas,Neutral,I just used Adidas and nothing has changed.
+2521,LinkedIn,Neutral,Loving the experience with LinkedIn and it totally failed.
+2522,GameStop,Positive,I think GameStop with no improvement.
+2523,LinkedIn,Positive,Not sure about LinkedIn and the new features are buggy.
+2524,Samsung,Negative,Not sure about Samsung but the support was helpful.
+2525,Tesla,Positive,"I just used Tesla and wow, what a difference!"
+2526,Twitter,Neutral,Not sure about Twitter again and it's perfect.
+2527,YouTube,Negative,I just used YouTube and nothing has changed.
+2528,GameStop,Negative,Not sure about GameStop but I still prefer the older version.
+2529,YouTube,Negative,I think YouTube but the support was helpful.
+2530,GameStop,Negative,Loving the experience with GameStop but the support was helpful.
+2531,Samsung,Positive,Not sure about Samsung and the new features are buggy.
+2532,LinkedIn,Positive,Just updated LinkedIn —finally fixed some issues.
+2533,Zoom,Negative,"Loving the experience with Zoom and wow, what a difference!"
+2534,Zoom,Neutral,"I just used Zoom and wow, what a difference!"
+2535,Snapchat,Neutral,Excited for Snapchat with no improvement.
+2536,Google,Neutral,"Great job by Google today, great results!"
+2537,Netflix,Positive,I think Netflix again and it's perfect.
+2538,Samsung,Negative,Feeling okay about Samsung and the new features are buggy.
+2539,Microsoft,Positive,"Feeling okay about Microsoft today, great results!"
+2540,Zoom,Neutral,Not sure about Zoom and it totally failed.
+2541,GameStop,Neutral,Excited for GameStop again and it's perfect.
+2542,GameStop,Negative,Can’t believe how bad GameStop —it’s okay I guess.
+2543,Nike,Negative,Never using Nike —it’s okay I guess.
+2544,Facebook,Neutral,"I just used Facebook today, great results!"
+2545,Instagram,Negative,I think Instagram but I still prefer the older version.
+2546,Adidas,Negative,"Feeling okay about Adidas and wow, what a difference!"
+2547,Reddit,Negative,Frustrated with Reddit but I still prefer the older version.
+2548,OpenAI,Neutral,I think OpenAI and it blew my mind!
+2549,Facebook,Neutral,Really impressed by Facebook and nothing has changed.
+2550,Google,Neutral,Great job by Google but the support was helpful.
+2551,Google,Neutral,"Great job by Google today, great results!"
+2552,OpenAI,Negative,"Just updated OpenAI today, great results!"
+2553,OpenAI,Neutral,"Loving the experience with OpenAI and wow, what a difference!"
+2554,Apple,Negative,Can’t believe how bad Apple and it blew my mind!
+2555,Snapchat,Negative,Can’t believe how bad Snapchat —finally fixed some issues.
+2556,Adidas,Negative,I just used Adidas and nothing has changed.
+2557,Nike,Negative,Can’t believe how bad Nike but the support was helpful.
+2558,Zoom,Positive,Really impressed by Zoom —it’s okay I guess.
+2559,Reddit,Positive,Loving the experience with Reddit but the support was helpful.
+2560,Zoom,Positive,"Really impressed by Zoom today, great results!"
+2561,Twitter,Positive,Really impressed by Twitter —finally fixed some issues.
+2562,Samsung,Negative,Never using Samsung but the support was helpful.
+2563,LinkedIn,Negative,Great job by LinkedIn and nothing has changed.
+2564,GameStop,Positive,Never using GameStop with no improvement.
+2565,Netflix,Positive,"Frustrated with Netflix and wow, what a difference!"
+2566,OpenAI,Positive,"Loving the experience with OpenAI today, great results!"
+2567,Reddit,Negative,"Can’t believe how bad Reddit today, great results!"
+2568,Instagram,Negative,Feeling okay about Instagram —it’s okay I guess.
+2569,Facebook,Neutral,Frustrated with Facebook —it’s okay I guess.
+2570,Twitter,Neutral,I think Twitter again and it's perfect.
+2571,Tesla,Positive,Frustrated with Tesla and the new features are buggy.
+2572,Google,Neutral,Loving the experience with Google and nothing has changed.
+2573,Netflix,Negative,I think Netflix but the support was helpful.
+2574,LinkedIn,Negative,Just updated LinkedIn and it totally failed.
+2575,LinkedIn,Negative,Just updated LinkedIn and the new features are buggy.
+2576,Adidas,Positive,Excited for Adidas and it totally failed.
+2577,Apple,Negative,"Feeling okay about Apple today, great results!"
+2578,Tesla,Negative,Excited for Tesla but I still prefer the older version.
+2579,Reddit,Neutral,Just updated Reddit again and it's perfect.
+2580,Apple,Neutral,Not sure about Apple but I still prefer the older version.
+2581,Samsung,Positive,I just used Samsung but the support was helpful.
+2582,Reddit,Negative,Feeling okay about Reddit —finally fixed some issues.
+2583,Microsoft,Positive,"Can’t believe how bad Microsoft and wow, what a difference!"
+2584,LinkedIn,Neutral,Can’t believe how bad LinkedIn but the support was helpful.
+2585,Amazon,Negative,"Excited for Amazon today, great results!"
+2586,Google,Neutral,Not sure about Google but the support was helpful.
+2587,Nike,Neutral,Feeling okay about Nike and the new features are buggy.
+2588,Microsoft,Neutral,Feeling okay about Microsoft again and it's perfect.
+2589,Instagram,Neutral,I think Instagram and nothing has changed.
+2590,Tesla,Neutral,Never using Tesla but I still prefer the older version.
+2591,Spotify,Negative,Not sure about Spotify with no improvement.
+2592,Instagram,Negative,"I think Instagram and wow, what a difference!"
+2593,Instagram,Negative,I just used Instagram again and it's perfect.
+2594,Facebook,Neutral,I just used Facebook again and it's perfect.
+2595,Instagram,Neutral,Can’t believe how bad Instagram and it totally failed.
+2596,Adidas,Negative,Feeling okay about Adidas and nothing has changed.
+2597,Zoom,Negative,I just used Zoom —it’s okay I guess.
+2598,LinkedIn,Negative,Just updated LinkedIn and nothing has changed.
+2599,OpenAI,Positive,"Excited for OpenAI and wow, what a difference!"
+2600,Reddit,Positive,Just updated Reddit and it blew my mind!
+2601,Facebook,Positive,"Just updated Facebook today, great results!"
+2602,Twitter,Neutral,I just used Twitter —finally fixed some issues.
+2603,Reddit,Negative,I think Reddit with no improvement.
+2604,Instagram,Neutral,"Really impressed by Instagram and wow, what a difference!"
+2605,Snapchat,Negative,Not sure about Snapchat again and it's perfect.
+2606,LinkedIn,Neutral,Frustrated with LinkedIn but the support was helpful.
+2607,LinkedIn,Positive,I just used LinkedIn and the new features are buggy.
+2608,Tesla,Negative,I just used Tesla but I still prefer the older version.
+2609,Zoom,Negative,"Never using Zoom and wow, what a difference!"
+2610,Samsung,Positive,"Not sure about Samsung today, great results!"
+2611,YouTube,Negative,I think YouTube and it totally failed.
+2612,Snapchat,Positive,Great job by Snapchat and nothing has changed.
+2613,Twitter,Neutral,"I just used Twitter today, great results!"
+2614,Google,Neutral,Never using Google but I still prefer the older version.
+2615,LinkedIn,Positive,Great job by LinkedIn —it’s okay I guess.
+2616,Spotify,Neutral,Can’t believe how bad Spotify —finally fixed some issues.
+2617,Zoom,Neutral,Excited for Zoom but I still prefer the older version.
+2618,Microsoft,Negative,Just updated Microsoft and it blew my mind!
+2619,Adidas,Positive,Loving the experience with Adidas —it’s okay I guess.
+2620,Netflix,Positive,Never using Netflix and it totally failed.
+2621,Reddit,Neutral,Great job by Reddit —it’s okay I guess.
+2622,Adidas,Neutral,I just used Adidas but I still prefer the older version.
+2623,Tesla,Neutral,Feeling okay about Tesla and the new features are buggy.
+2624,Facebook,Negative,Never using Facebook —finally fixed some issues.
+2625,Microsoft,Negative,Never using Microsoft and the new features are buggy.
+2626,YouTube,Negative,Great job by YouTube but the support was helpful.
+2627,OpenAI,Negative,Can’t believe how bad OpenAI with no improvement.
+2628,Netflix,Positive,I just used Netflix and the new features are buggy.
+2629,Netflix,Negative,Never using Netflix and it totally failed.
+2630,Microsoft,Neutral,I just used Microsoft with no improvement.
+2631,Amazon,Negative,Great job by Amazon but I still prefer the older version.
+2632,Netflix,Neutral,Just updated Netflix and it blew my mind!
+2633,OpenAI,Negative,Really impressed by OpenAI and it blew my mind!
+2634,Zoom,Negative,Loving the experience with Zoom —it’s okay I guess.
+2635,Reddit,Positive,Never using Reddit but I still prefer the older version.
+2636,Google,Negative,Great job by Google and it blew my mind!
+2637,OpenAI,Neutral,Just updated OpenAI —finally fixed some issues.
+2638,Zoom,Negative,"Loving the experience with Zoom and wow, what a difference!"
+2639,Amazon,Neutral,Excited for Amazon again and it's perfect.
+2640,GameStop,Positive,Feeling okay about GameStop and it blew my mind!
+2641,Snapchat,Neutral,"I think Snapchat today, great results!"
+2642,LinkedIn,Neutral,Really impressed by LinkedIn —it’s okay I guess.
+2643,Facebook,Positive,I think Facebook and it blew my mind!
+2644,OpenAI,Positive,"Frustrated with OpenAI and wow, what a difference!"
+2645,Samsung,Neutral,"Frustrated with Samsung and wow, what a difference!"
+2646,Twitter,Positive,Can’t believe how bad Twitter but the support was helpful.
+2647,Reddit,Positive,I just used Reddit and it blew my mind!
+2648,LinkedIn,Neutral,Excited for LinkedIn but the support was helpful.
+2649,Amazon,Positive,Not sure about Amazon but the support was helpful.
+2650,Snapchat,Neutral,Frustrated with Snapchat —it’s okay I guess.
+2651,Google,Neutral,Feeling okay about Google and the new features are buggy.
+2652,GameStop,Positive,Just updated GameStop and the new features are buggy.
+2653,Reddit,Negative,Can’t believe how bad Reddit but the support was helpful.
+2654,Reddit,Negative,Really impressed by Reddit but the support was helpful.
+2655,Reddit,Positive,Not sure about Reddit and it blew my mind!
+2656,Google,Neutral,Great job by Google —it’s okay I guess.
+2657,Facebook,Neutral,Excited for Facebook and it blew my mind!
+2658,Facebook,Negative,Not sure about Facebook and nothing has changed.
+2659,Apple,Neutral,Can’t believe how bad Apple again and it's perfect.
+2660,Netflix,Negative,Excited for Netflix with no improvement.
+2661,Instagram,Negative,I think Instagram and it blew my mind!
+2662,LinkedIn,Neutral,Great job by LinkedIn but the support was helpful.
+2663,Snapchat,Positive,Feeling okay about Snapchat —finally fixed some issues.
+2664,Facebook,Neutral,Great job by Facebook —finally fixed some issues.
+2665,Zoom,Neutral,Loving the experience with Zoom and it totally failed.
+2666,Tesla,Positive,Never using Tesla and the new features are buggy.
+2667,Spotify,Negative,Really impressed by Spotify and it blew my mind!
+2668,GameStop,Neutral,Frustrated with GameStop but I still prefer the older version.
+2669,OpenAI,Positive,"Feeling okay about OpenAI today, great results!"
+2670,OpenAI,Positive,"Never using OpenAI and wow, what a difference!"
+2671,YouTube,Positive,"Just updated YouTube and wow, what a difference!"
+2672,Apple,Negative,I just used Apple and it blew my mind!
+2673,GameStop,Positive,Just updated GameStop but the support was helpful.
+2674,Twitter,Positive,"Not sure about Twitter and wow, what a difference!"
+2675,YouTube,Neutral,Really impressed by YouTube with no improvement.
+2676,OpenAI,Negative,Great job by OpenAI and it totally failed.
+2677,Adidas,Positive,"Feeling okay about Adidas and wow, what a difference!"
+2678,OpenAI,Neutral,Not sure about OpenAI and nothing has changed.
+2679,Facebook,Negative,"Can’t believe how bad Facebook today, great results!"
+2680,OpenAI,Negative,I think OpenAI and nothing has changed.
+2681,Samsung,Negative,Excited for Samsung —it’s okay I guess.
+2682,Reddit,Positive,Feeling okay about Reddit but I still prefer the older version.
+2683,Adidas,Negative,Feeling okay about Adidas —it’s okay I guess.
+2684,YouTube,Positive,Excited for YouTube and it blew my mind!
+2685,Facebook,Negative,Can’t believe how bad Facebook but I still prefer the older version.
+2686,Instagram,Negative,Not sure about Instagram and it totally failed.
+2687,Snapchat,Negative,Just updated Snapchat and it totally failed.
+2688,Nike,Negative,"Great job by Nike and wow, what a difference!"
+2689,Samsung,Negative,Just updated Samsung and the new features are buggy.
+2690,Adidas,Negative,I think Adidas —finally fixed some issues.
+2691,Amazon,Negative,Just updated Amazon but the support was helpful.
+2692,GameStop,Positive,Can’t believe how bad GameStop —it’s okay I guess.
+2693,OpenAI,Negative,Feeling okay about OpenAI —finally fixed some issues.
+2694,Instagram,Positive,"Feeling okay about Instagram and wow, what a difference!"
+2695,Apple,Negative,Frustrated with Apple —it’s okay I guess.
+2696,YouTube,Negative,Just updated YouTube and nothing has changed.
+2697,Amazon,Positive,Never using Amazon and the new features are buggy.
+2698,Nike,Negative,"Excited for Nike today, great results!"
+2699,Snapchat,Neutral,"Never using Snapchat today, great results!"
+2700,Snapchat,Positive,Feeling okay about Snapchat —it’s okay I guess.
+2701,Instagram,Positive,"I think Instagram today, great results!"
+2702,Instagram,Negative,Not sure about Instagram and it totally failed.
+2703,Facebook,Positive,Frustrated with Facebook and the new features are buggy.
+2704,Zoom,Neutral,Just updated Zoom —finally fixed some issues.
+2705,Netflix,Neutral,Excited for Netflix —finally fixed some issues.
+2706,Instagram,Neutral,I just used Instagram with no improvement.
+2707,Netflix,Neutral,Can’t believe how bad Netflix and it totally failed.
+2708,Google,Positive,Excited for Google —it’s okay I guess.
+2709,Google,Positive,Loving the experience with Google and the new features are buggy.
+2710,Netflix,Neutral,Excited for Netflix again and it's perfect.
+2711,Apple,Positive,Frustrated with Apple and nothing has changed.
+2712,Nike,Negative,Not sure about Nike but the support was helpful.
+2713,Samsung,Negative,Loving the experience with Samsung and it totally failed.
+2714,Reddit,Positive,I just used Reddit but the support was helpful.
+2715,Facebook,Positive,Feeling okay about Facebook but the support was helpful.
+2716,Google,Neutral,Really impressed by Google —finally fixed some issues.
+2717,Amazon,Neutral,Just updated Amazon and the new features are buggy.
+2718,Samsung,Positive,Great job by Samsung and it blew my mind!
+2719,Netflix,Negative,Never using Netflix but I still prefer the older version.
+2720,Facebook,Negative,Never using Facebook and it totally failed.
+2721,Microsoft,Neutral,"Can’t believe how bad Microsoft today, great results!"
+2722,GameStop,Positive,Never using GameStop but I still prefer the older version.
+2723,Reddit,Positive,Never using Reddit —finally fixed some issues.
+2724,YouTube,Neutral,Feeling okay about YouTube but I still prefer the older version.
+2725,Nike,Negative,Never using Nike with no improvement.
+2726,Samsung,Negative,Feeling okay about Samsung again and it's perfect.
+2727,Tesla,Positive,Really impressed by Tesla —finally fixed some issues.
+2728,Apple,Neutral,"Never using Apple today, great results!"
+2729,Snapchat,Negative,Loving the experience with Snapchat —finally fixed some issues.
+2730,YouTube,Negative,Not sure about YouTube but the support was helpful.
+2731,OpenAI,Neutral,Can’t believe how bad OpenAI —it’s okay I guess.
+2732,Instagram,Positive,Never using Instagram and it blew my mind!
+2733,Samsung,Negative,Really impressed by Samsung and it blew my mind!
+2734,GameStop,Negative,"Not sure about GameStop and wow, what a difference!"
+2735,Twitter,Positive,"Great job by Twitter today, great results!"
+2736,Nike,Neutral,Great job by Nike —finally fixed some issues.
+2737,Amazon,Neutral,Never using Amazon and the new features are buggy.
+2738,Amazon,Neutral,Not sure about Amazon but the support was helpful.
+2739,Snapchat,Negative,Really impressed by Snapchat —it’s okay I guess.
+2740,Amazon,Neutral,I just used Amazon but I still prefer the older version.
+2741,Apple,Neutral,I just used Apple —it’s okay I guess.
+2742,Spotify,Positive,Not sure about Spotify and it totally failed.
+2743,Google,Neutral,Not sure about Google and it blew my mind!
+2744,Samsung,Positive,"Feeling okay about Samsung and wow, what a difference!"
+2745,Netflix,Positive,Great job by Netflix —finally fixed some issues.
+2746,Spotify,Neutral,Really impressed by Spotify and it blew my mind!
+2747,OpenAI,Positive,I think OpenAI —finally fixed some issues.
+2748,Reddit,Positive,Never using Reddit but I still prefer the older version.
+2749,Spotify,Positive,"I just used Spotify today, great results!"
+2750,Nike,Negative,Frustrated with Nike and the new features are buggy.
+2751,LinkedIn,Negative,Excited for LinkedIn again and it's perfect.
+2752,OpenAI,Negative,Loving the experience with OpenAI and it blew my mind!
+2753,Snapchat,Neutral,I think Snapchat and the new features are buggy.
+2754,Tesla,Negative,Just updated Tesla and it blew my mind!
+2755,Tesla,Neutral,Just updated Tesla —it’s okay I guess.
+2756,Nike,Neutral,Frustrated with Nike and the new features are buggy.
+2757,Apple,Neutral,I just used Apple with no improvement.
+2758,Tesla,Negative,Loving the experience with Tesla again and it's perfect.
+2759,LinkedIn,Negative,Loving the experience with LinkedIn again and it's perfect.
+2760,Twitter,Negative,"I just used Twitter and wow, what a difference!"
+2761,Apple,Positive,Excited for Apple with no improvement.
+2762,Instagram,Negative,Great job by Instagram but I still prefer the older version.
+2763,GameStop,Negative,"Can’t believe how bad GameStop today, great results!"
+2764,Twitter,Positive,I just used Twitter but I still prefer the older version.
+2765,Amazon,Negative,Never using Amazon and it blew my mind!
+2766,Apple,Neutral,Never using Apple but I still prefer the older version.
+2767,Adidas,Positive,Just updated Adidas with no improvement.
+2768,Tesla,Negative,Excited for Tesla and the new features are buggy.
+2769,Tesla,Negative,"I just used Tesla today, great results!"
+2770,Spotify,Neutral,Loving the experience with Spotify again and it's perfect.
+2771,Spotify,Negative,"I just used Spotify and wow, what a difference!"
+2772,Adidas,Negative,Just updated Adidas but the support was helpful.
+2773,Amazon,Negative,Great job by Amazon and it blew my mind!
+2774,GameStop,Positive,"I think GameStop today, great results!"
+2775,Instagram,Positive,Feeling okay about Instagram but I still prefer the older version.
+2776,Microsoft,Negative,I just used Microsoft but the support was helpful.
+2777,Spotify,Positive,Can’t believe how bad Spotify and the new features are buggy.
+2778,Twitter,Negative,Never using Twitter and it totally failed.
+2779,Netflix,Positive,Can’t believe how bad Netflix and it totally failed.
+2780,Nike,Positive,Really impressed by Nike again and it's perfect.
+2781,Nike,Negative,"I just used Nike and wow, what a difference!"
+2782,Spotify,Positive,Never using Spotify with no improvement.
+2783,Samsung,Positive,"Frustrated with Samsung and wow, what a difference!"
+2784,OpenAI,Positive,Can’t believe how bad OpenAI again and it's perfect.
+2785,OpenAI,Neutral,Can’t believe how bad OpenAI —it’s okay I guess.
+2786,Twitter,Positive,Excited for Twitter with no improvement.
+2787,YouTube,Neutral,Excited for YouTube and it totally failed.
+2788,Spotify,Positive,Excited for Spotify and it totally failed.
+2789,Snapchat,Negative,Never using Snapchat and nothing has changed.
+2790,Google,Negative,Just updated Google and it blew my mind!
+2791,Google,Neutral,Frustrated with Google again and it's perfect.
+2792,Amazon,Negative,Feeling okay about Amazon but I still prefer the older version.
+2793,Apple,Negative,Great job by Apple and it blew my mind!
+2794,GameStop,Negative,Can’t believe how bad GameStop but the support was helpful.
+2795,Amazon,Neutral,"Really impressed by Amazon today, great results!"
+2796,Instagram,Neutral,Great job by Instagram and it blew my mind!
+2797,Samsung,Negative,Excited for Samsung and it blew my mind!
+2798,Reddit,Neutral,I just used Reddit and it blew my mind!
+2799,Instagram,Negative,"Not sure about Instagram and wow, what a difference!"
+2800,Nike,Negative,Just updated Nike and nothing has changed.
+2801,Nike,Negative,"Never using Nike today, great results!"
+2802,Microsoft,Neutral,Not sure about Microsoft but I still prefer the older version.
+2803,Twitter,Negative,Frustrated with Twitter —finally fixed some issues.
+2804,Netflix,Positive,Never using Netflix and the new features are buggy.
+2805,OpenAI,Negative,"Frustrated with OpenAI and wow, what a difference!"
+2806,YouTube,Neutral,Frustrated with YouTube but the support was helpful.
+2807,Google,Negative,Loving the experience with Google and nothing has changed.
+2808,Google,Negative,Really impressed by Google and the new features are buggy.
+2809,Twitter,Neutral,"Not sure about Twitter today, great results!"
+2810,Snapchat,Neutral,I think Snapchat but I still prefer the older version.
+2811,Snapchat,Negative,Not sure about Snapchat —finally fixed some issues.
+2812,Instagram,Positive,Can’t believe how bad Instagram with no improvement.
+2813,Spotify,Negative,Frustrated with Spotify —it’s okay I guess.
+2814,Instagram,Neutral,"Loving the experience with Instagram today, great results!"
+2815,Microsoft,Neutral,Excited for Microsoft again and it's perfect.
+2816,Adidas,Neutral,Really impressed by Adidas again and it's perfect.
+2817,Microsoft,Neutral,Not sure about Microsoft and it totally failed.
+2818,GameStop,Neutral,I think GameStop —finally fixed some issues.
+2819,GameStop,Neutral,Never using GameStop and it totally failed.
+2820,Snapchat,Neutral,Just updated Snapchat and the new features are buggy.
+2821,Spotify,Positive,Loving the experience with Spotify and the new features are buggy.
+2822,GameStop,Negative,Frustrated with GameStop but I still prefer the older version.
+2823,OpenAI,Negative,"Not sure about OpenAI and wow, what a difference!"
+2824,Nike,Negative,Never using Nike but I still prefer the older version.
+2825,YouTube,Positive,Not sure about YouTube again and it's perfect.
+2826,GameStop,Negative,Really impressed by GameStop and the new features are buggy.
+2827,Snapchat,Positive,Excited for Snapchat —finally fixed some issues.
+2828,Samsung,Positive,Great job by Samsung —it’s okay I guess.
+2829,LinkedIn,Neutral,Excited for LinkedIn but the support was helpful.
+2830,Samsung,Negative,Feeling okay about Samsung and it blew my mind!
+2831,Tesla,Negative,"Can’t believe how bad Tesla today, great results!"
+2832,Spotify,Negative,I just used Spotify but the support was helpful.
+2833,Instagram,Positive,"Frustrated with Instagram and wow, what a difference!"
+2834,Twitter,Neutral,Feeling okay about Twitter and nothing has changed.
+2835,Instagram,Positive,"Never using Instagram today, great results!"
+2836,Amazon,Negative,Loving the experience with Amazon and it totally failed.
+2837,Snapchat,Positive,Never using Snapchat and it blew my mind!
+2838,Apple,Neutral,I think Apple but I still prefer the older version.
+2839,Google,Negative,Never using Google and it totally failed.
+2840,Adidas,Positive,Just updated Adidas —it’s okay I guess.
+2841,Reddit,Positive,Not sure about Reddit but I still prefer the older version.
+2842,Zoom,Positive,Just updated Zoom and it blew my mind!
+2843,Apple,Negative,Loving the experience with Apple again and it's perfect.
+2844,Microsoft,Positive,Great job by Microsoft and it blew my mind!
+2845,Amazon,Neutral,Feeling okay about Amazon —finally fixed some issues.
+2846,Spotify,Neutral,Frustrated with Spotify but I still prefer the older version.
+2847,Facebook,Positive,Never using Facebook but I still prefer the older version.
+2848,Twitter,Positive,Feeling okay about Twitter but I still prefer the older version.
+2849,Adidas,Negative,I think Adidas but I still prefer the older version.
+2850,Facebook,Neutral,I think Facebook —finally fixed some issues.
+2851,Twitter,Positive,Frustrated with Twitter and nothing has changed.
+2852,Netflix,Negative,Frustrated with Netflix but the support was helpful.
+2853,Instagram,Neutral,Great job by Instagram and it totally failed.
+2854,Samsung,Neutral,Really impressed by Samsung and nothing has changed.
+2855,Amazon,Negative,Frustrated with Amazon and the new features are buggy.
+2856,Amazon,Neutral,Really impressed by Amazon —finally fixed some issues.
+2857,Microsoft,Neutral,"Loving the experience with Microsoft today, great results!"
+2858,Google,Positive,Excited for Google —finally fixed some issues.
+2859,Netflix,Positive,Not sure about Netflix —finally fixed some issues.
+2860,Snapchat,Neutral,Frustrated with Snapchat and it blew my mind!
+2861,Reddit,Negative,Feeling okay about Reddit —finally fixed some issues.
+2862,Nike,Negative,I just used Nike and it blew my mind!
+2863,Facebook,Positive,Frustrated with Facebook but the support was helpful.
+2864,Microsoft,Negative,Excited for Microsoft and nothing has changed.
+2865,Adidas,Negative,"Can’t believe how bad Adidas today, great results!"
+2866,OpenAI,Negative,I think OpenAI —finally fixed some issues.
+2867,Apple,Positive,Feeling okay about Apple and it blew my mind!
+2868,Spotify,Positive,"Not sure about Spotify and wow, what a difference!"
+2869,Amazon,Negative,Frustrated with Amazon —it’s okay I guess.
+2870,Spotify,Neutral,Feeling okay about Spotify again and it's perfect.
+2871,Microsoft,Negative,Can’t believe how bad Microsoft but the support was helpful.
+2872,Instagram,Negative,Excited for Instagram but I still prefer the older version.
+2873,Nike,Negative,Can’t believe how bad Nike and the new features are buggy.
+2874,Facebook,Positive,Just updated Facebook and the new features are buggy.
+2875,Microsoft,Positive,Excited for Microsoft and the new features are buggy.
+2876,Amazon,Neutral,I just used Amazon —finally fixed some issues.
+2877,GameStop,Negative,"Feeling okay about GameStop and wow, what a difference!"
+2878,Amazon,Positive,Excited for Amazon with no improvement.
+2879,Snapchat,Negative,"I just used Snapchat today, great results!"
+2880,Google,Neutral,I just used Google —it’s okay I guess.
+2881,Tesla,Neutral,"I think Tesla and wow, what a difference!"
+2882,Netflix,Neutral,Can’t believe how bad Netflix and the new features are buggy.
+2883,Samsung,Neutral,Just updated Samsung and the new features are buggy.
+2884,Facebook,Neutral,Frustrated with Facebook and the new features are buggy.
+2885,Samsung,Negative,Just updated Samsung but I still prefer the older version.
+2886,Reddit,Negative,Just updated Reddit —it’s okay I guess.
+2887,Instagram,Negative,Frustrated with Instagram again and it's perfect.
+2888,Snapchat,Positive,"Feeling okay about Snapchat today, great results!"
+2889,Nike,Negative,I just used Nike and it totally failed.
+2890,Twitter,Positive,Great job by Twitter but I still prefer the older version.
+2891,Tesla,Negative,"Frustrated with Tesla today, great results!"
+2892,YouTube,Neutral,"Just updated YouTube and wow, what a difference!"
+2893,Facebook,Positive,Feeling okay about Facebook and it blew my mind!
+2894,Instagram,Negative,Never using Instagram —finally fixed some issues.
+2895,GameStop,Negative,Really impressed by GameStop and the new features are buggy.
+2896,Amazon,Positive,Really impressed by Amazon —it’s okay I guess.
+2897,GameStop,Negative,Really impressed by GameStop with no improvement.
+2898,Instagram,Positive,Frustrated with Instagram but I still prefer the older version.
+2899,YouTube,Positive,Just updated YouTube but the support was helpful.
+2900,Facebook,Positive,Can’t believe how bad Facebook and it blew my mind!
